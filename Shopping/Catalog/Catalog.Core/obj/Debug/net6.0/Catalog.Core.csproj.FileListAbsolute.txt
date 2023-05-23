@@ -10,3 +10,13 @@ E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Cor
 E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\obj\Debug\net6.0\refint\Catalog.Core.dll
 E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.pdb
 E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\obj\Debug\net6.0\ref\Catalog.Core.dll
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.API.deps.json
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.API.runtimeconfig.json
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\appsettings.Development.json
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\appsettings.json
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.API.exe
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.API.dll
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Application.dll
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.API.pdb
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Application.pdb
+E:\Home\CleanShopping\Shopping\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.CopyComplete

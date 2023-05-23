@@ -95,6 +95,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Catalog.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Catalog.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.Application.dll": {}
+        }
       }
     }
   },
@@ -303,10 +313,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Catalog.Application/1.0.0": {
+      "type": "project",
+      "path": "../Catalog.Application/Catalog.Application.csproj",
+      "msbuildProject": "../Catalog.Application/Catalog.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Catalog.Application >= 1.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.17.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -343,7 +359,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Home\\CleanShopping\\Shopping\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
+              "projectPath": "E:\\Home\\CleanShopping\\Shopping\\Catalog\\Catalog.Application\\Catalog.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
